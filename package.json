@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-vdocipherplayer",
+  "version": "1.0.0",
+  "description": "It helps to play video cipher native video",
+  "cordova": {
+    "id": "cordova-plugin-vdocipherplayer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Devesh mishra",
+  "license": "ISC"
+}
